@@ -21,5 +21,5 @@
 <a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
 
 <h2>Articles</h2>
-<a href="https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a">Towards datascience</a><br/>
+<a href="https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a">Automated machine learning hyperparameter tuning</a><br/>
 <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet?fbclid=IwAR3L5vD2B1vPn0JhiZzHX7RJDvbAA-8lBfbWbl7rg4X_1xOGlUk-5nSwKi0">Data science cheat sheet</a><br/>
