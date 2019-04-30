@@ -14,8 +14,6 @@
 <a href="https://www.datacamp.com/tracks/data-scientist-with-python">Track DataCamp Data Scientist</a><br>
 <a href="https://www.datacamp.com/tracks/data-analyst-with-python">Track DataCamp Data Analyst</a><br>
 
-
-
 <h2>Machine Learning</h2>
 <a href="https://www.kaggle.com/learn/overview">Kaggle machine learning lessons (Pandas, Sklearn, Keras, Tensorflow, Seaborn)</a><br/>
 <a href="https://www.fast.ai/">Fast ai online courses</a><br/>
@@ -33,3 +31,4 @@
 
 <h2>Projects made by the team</h2>
 <a href="https://github.com/JordhanMadec/world-cup-predictor">World Cup Predictor -> Apache Fink, Java </a><br/>
+<a href="https://www.kaggle.com/theophilebu/mercedes-125746?scriptVersionId=12173784">Mercedes kaggle competition</a><br/>
