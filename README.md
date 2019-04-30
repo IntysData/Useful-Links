@@ -9,6 +9,13 @@
 <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">SQL tutorial</a><br>
 <a href="https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/part-0/">Neo4J introduction</a><br/>
 
+<h2>Python</h2>
+<a href="https://www.datacamp.com/tracks/python-programmer">Track DataCamp Python Programmer</a><br>
+<a href="https://www.datacamp.com/tracks/data-scientist-with-python">Track DataCamp Data Scientist</a><br>
+<a href="https://www.datacamp.com/tracks/data-analyst-with-python">Track DataCamp Data Analyst</a><br>
+
+
+
 <h2>Machine Learning</h2>
 <a href="https://www.kaggle.com/learn/overview">Kaggle machine learning lessons (Pandas, Sklearn, Keras, Tensorflow, Seaborn)</a><br/>
 <a href="https://www.fast.ai/">Fast ai online courses</a><br/>
