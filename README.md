@@ -1,4 +1,4 @@
-<center><img src="https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/v1/70958/mrepwglrmfl0pzrv4onb_ajepll.png"/></center>
+<p style="text-align:center;display:block;"><img src="https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/v1/70958/mrepwglrmfl0pzrv4onb_ajepll.png"/></p>
 
 <strong>Some useful links proposed by the team to improve yours skills.<strong>
 
