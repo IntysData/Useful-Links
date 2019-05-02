@@ -2,6 +2,9 @@
 
 <strong>Some useful links proposed by the team to improve yours skills.<strong>
 
+<h2>General formations</h2>
+<a href="https://www.edureka.co/blog/interview-questions/">Edureka : formations pour tous les domaines de la data et du developpement</a><br/>
+
 <h2>Business Intelligence/DataViz</h2>
 <a href="https://www.udemy.com/tableau-tutorial-for-beginners">Tableau tutorial for beginners</a><br/>
 
