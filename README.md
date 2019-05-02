@@ -32,3 +32,5 @@
 <h2>Projects made by the team</h2>
 <a href="https://github.com/JordhanMadec/world-cup-predictor">World Cup Predictor -> Apache Fink, Java </a><br/>
 <a href="https://www.kaggle.com/theophilebu/mercedes-125746?scriptVersionId=12173784">Mercedes kaggle competition</a><br/>
+<a href="https://github.com/IntysData/Visual-detection">Visual detection</a><br/>
+<a href="https://github.com/IntysData/Scraping">Scraping</a><br/>
