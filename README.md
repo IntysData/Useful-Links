@@ -37,3 +37,8 @@
 <a href="https://www.kaggle.com/theophilebu/mercedes-125746?scriptVersionId=12173784">Mercedes kaggle competition</a><br/>
 <a href="https://github.com/IntysData/Visual-detection">Visual detection</a><br/>
 <a href="https://github.com/IntysData/Scraping">Scraping</a><br/>
+
+<h2>Interesting datasets</h2>
+<a href="https://opendata.infrabel.be/pages/home/">Infrabel</a><br/>
+<a href="https://data.sncf.com/explore/?sort=modified">SCNF</a><br/>
+<a href="https://www.kaggle.com/datasets">Kaggle</a><br/>
