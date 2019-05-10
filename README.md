@@ -27,9 +27,11 @@
 
 <h2> Track Data Scientist </h2> 
    <h4> Python </h4>
-<a href="https://www.datacamp.com/tracks/data-scientist-with-python">Track DataCamp Data Scientist</a><br>
-<a href="https://www.datacamp.com/tracks/data-analyst-with-python">Track DataCamp Data Analyst</a><br>
+<a href="https://www.datacamp.com/tracks/data-scientist-with-python">Track DataCamp Data Scientist Python</a><br>
+<a href="https://www.datacamp.com/tracks/data-analyst-with-python">Track DataCamp Data Analyst Python</a><br>
   <h4> R </h4>
+<a href="https://www.datacamp.com/tracks/data-scientist-with-r">Track DataCamp Data Scientist R</a><br>
+<a href="https://www.datacamp.com/tracks/data-analyst-with-r">Track DataCamp Data Analyst R</a><br>
   <h4> Machine Learning </h4>
 <a href="https://www.kaggle.com/learn/overview">Kaggle machine learning lessons (Pandas, Sklearn, Keras, Tensorflow, Seaborn)</a><br/>
 <a href="https://www.fast.ai/">Fast ai online courses</a><br/>
