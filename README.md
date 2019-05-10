@@ -1,9 +1,9 @@
 <p align="center"><img src="https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/v1/70958/mrepwglrmfl0pzrv4onb_ajepll.png"/></p>
 
 <strong>Some useful links proposed by the team to improve yours skills.<strong>
-<h2>SELECT YOUR TRACK(S):</h2>
+<h1>SELECT YOUR TRACK(S):</h1>
 <h2> Track Basic</h2>
- <h3> SQL,PowerBI,Tableau,ETL,R,Python </h3>
+ <h4> SQL,PowerBI,Tableau,ETL,R,Python </h4>
 <a href="ttps://www.datacamp.com/courses/introduction-to-spark-sql">Introduction to SparkQL with Python</a><br/>
 <a href="https://www.datacamp.com/tracks/python-programmer">Track DataCamp Python Programmer</a><br>
  <a href="https://docs.microsoft.com/en-us/power-bi/guided-learning/">Microsoft Power BI Guided Learning</a><br>
