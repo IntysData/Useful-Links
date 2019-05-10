@@ -4,10 +4,13 @@
 <h2>SELECT YOUR TRACK(S):</h2>
 <h2> Track Basic</h2>
   SQL,PowerBI,Tableau,ETL,R,Python
-<h2> Track BI </h2>
-<h2> Track Data Scientist </h2>
-<h2> Track Data Management </h2>
-<h2> Track Big Data </h2>
+<h2> Track BI </h2> PowerBI, Tableau, SASBI, BO (SAP)
+<h2> Track Data Scientist </h2> R, Python, Machine Learning, Deep Learning
+<h2> Track Data Management </h2> ETL (Oracle), SAS, Warehouse
+<h2> Track Big Data </h2> Hadoop, Spark, Flink
+<a href="https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm">Spark introduction</a><br/>
+<a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">Hadoop/Spark/Flink compared</a><br/>
+<a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
 <h2>General formations</h2>
 <a href="https://www.edureka.co/blog/interview-questions/">Edureka : formations pour tous les domaines de la data et du developpement</a><br/>
 
@@ -31,10 +34,6 @@
 <a href="http://wikistat.fr/">Wiki stat (Mathematiques, data science)</a><br/>
 <a href="https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/">Back propagation neural network</a><br/>
 
-<h2>Big Data</h2>
-<a href="https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm">Spark introduction</a><br/>
-<a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">Hadoop/Spark/Flink compared</a><br/>
-<a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
 
 <h2>Articles</h2>
 <a href="https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a">Automated machine learning hyperparameter tuning</a><br/>
