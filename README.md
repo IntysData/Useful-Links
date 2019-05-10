@@ -17,6 +17,7 @@
   <a href="https://panoply.io/data-warehouse-guide/etl-tutorial/">ETL tutorial</a><br/>
 
 <br/>
+<br/>
 <h2> Track BI </h2> 
 <h4> Tableau </h4>
 <a href="https://www.udemy.com/tableau-tutorial-for-beginners">Tableau tutorial for beginners</a><br/>
@@ -26,6 +27,9 @@
 <h4> BO (SAP) </h4>
 <a href="https://www.youtube.com/playlist?list=PLsGYyJulNyyYqHJeNC0XB3ZwWEhy2hZqH"> SAP Business Objects Training</a><br/>
 
+
+<br/>
+<br/>
 <h2> Track Data Scientist </h2> 
    <h4> Python </h4>
 <a href="https://www.datacamp.com/tracks/data-scientist-with-python">Track DataCamp Data Scientist Python</a><br>
@@ -40,6 +44,9 @@
 <a href="http://wikistat.fr/">Wiki stat (Mathematiques, data science)</a><br/>
 <a href="https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/">Back propagation neural network</a><br/>
 
+
+<br/>
+<br/>
 <h2> Track Data Management </h2> 
   <h4> SQL-NoSQL  </h4> 
 <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">SQL tutorial</a><br>
@@ -57,6 +64,9 @@
   <h4> Warehouse  </h4> 
   <a href="https://panoply.io/data-warehouse-guide/data-warehouse-concepts-traditional-vs-cloud/">Formation Data Warehouse</a><br/>
 
+
+<br/>
+<br/>
 <h2> Track Big Data </h2>
   <h4>Spark</h4> 
 <a href="https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm">Spark introduction</a><br/>
@@ -70,16 +80,25 @@
 <h2>General formations</h2>
 <a href="https://www.edureka.co/blog/interview-questions/">Edureka : formations pour tous les domaines de la data et du developpement</a><br/>
 
+
+<br/>
+<br/>
 <h2>Articles</h2>
 <a href="https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a">Automated machine learning hyperparameter tuning</a><br/>
 <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet?fbclid=IwAR3L5vD2B1vPn0JhiZzHX7RJDvbAA-8lBfbWbl7rg4X_1xOGlUk-5nSwKi0">Data science cheat sheet</a><br/>
 
+
+<br/>
+<br/>
 <h2>Projects made by the team</h2>
 <a href="https://github.com/JordhanMadec/world-cup-predictor">World Cup Predictor -> Apache Fink, Java </a><br/>
 <a href="https://www.kaggle.com/theophilebu/mercedes-125746?scriptVersionId=12173784">Mercedes kaggle competition</a><br/>
 <a href="https://github.com/IntysData/Visual-detection">Visual detection</a><br/>
 <a href="https://github.com/IntysData/Scraping">Scraping</a><br/>
 
+
+<br/>
+<br/>
 <h2>Interesting datasets</h2>
 <a href="https://opendata.infrabel.be/pages/home/">Infrabel</a><br/>
 <a href="https://data.sncf.com/explore/?sort=modified">SCNF</a><br/>
