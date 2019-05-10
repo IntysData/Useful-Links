@@ -59,13 +59,13 @@
 <h2> Track Big Data </h2>
   <h4>Spark</h4> 
 <a href="https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm">Spark introduction</a><br/>
- <h4>Big data general concepts </h4> 
-<a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">Hadoop/Spark/Flink compared</a><br/>
-<a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
   <h4>Hadoop</h4> 
  <a href="https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives/4308656-familiarisez-vous-avec-hadoop">Distributed computing with Hadoop and Spark</a><br/>
    <h4>Flink</h4> 
   <a href="https://training.ververica.com/intro/intro-1.html">Apache FLink Training</a><br/>
+   <h4>Big data general concepts </h4> 
+<a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">Hadoop/Spark/Flink compared</a><br/>
+<a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
 <h2>General formations</h2>
 <a href="https://www.edureka.co/blog/interview-questions/">Edureka : formations pour tous les domaines de la data et du developpement</a><br/>
 
