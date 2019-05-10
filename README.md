@@ -3,14 +3,18 @@
 <strong>Some useful links proposed by the team to improve yours skills.<strong>
 <h2>SELECT YOUR TRACK(S):</h2>
 <h2> Track Basic</h2>
-  SQL,PowerBI,Tableau,ETL,R,Python
+ <h3> SQL,PowerBI,Tableau,ETL,R,Python </h3>
 <a href="ttps://www.datacamp.com/courses/introduction-to-spark-sql">Introduction to SparkQL with Python</a><br/>
 <a href="https://www.datacamp.com/tracks/python-programmer">Track DataCamp Python Programmer</a><br>
+ <a href="https://docs.microsoft.com/en-us/power-bi/guided-learning/">Microsoft Power BI Guided Learning</a><br>
 
-<h2> Track BI </h2> PowerBI, Tableau, SASBI, BO (SAP)
+<h2> Track BI </h2> 
+ <h3> PowerBI, Tableau, SASBI, BO (SAP) </h3> 
 <a href="https://www.udemy.com/tableau-tutorial-for-beginners">Tableau tutorial for beginners</a><br/>
+<a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2">Analyzing and Visualizing Data with Power BI</a><br/>
 
-<h2> Track Data Scientist </h2> R, Python, Machine Learning, Deep Learning
+<h2> Track Data Scientist </h2> 
+ <h3> R, Python, Machine Learning, Deep Learning </h3> 
 <a href="https://www.datacamp.com/tracks/data-scientist-with-python">Track DataCamp Data Scientist</a><br>
 <a href="https://www.datacamp.com/tracks/data-analyst-with-python">Track DataCamp Data Analyst</a><br>
 <a href="https://www.kaggle.com/learn/overview">Kaggle machine learning lessons (Pandas, Sklearn, Keras, Tensorflow, Seaborn)</a><br/>
@@ -18,13 +22,15 @@
 <a href="http://wikistat.fr/">Wiki stat (Mathematiques, data science)</a><br/>
 <a href="https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/">Back propagation neural network</a><br/>
 
-<h2> Track Data Management </h2> ETL (Oracle), SAS, Warehouse, SQL/DB
+<h2> Track Data Management </h2> 
+ <h3> ETL (Oracle), SAS, Warehouse, SQL/DB  </h3> 
 <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">SQL tutorial</a><br>
 <a href="http://www.developpement-informatique.com/cours/dev-info/langage-SQL/45/Exercices-de-langage-SQL">SQL exercices 1</a><br>
 <a href="https://msbiskills.com/tsql-puzzles-asked-in-interview-over-the-years/">SQL exercices 2</a><br>
 <a href="https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/part-0/">Neo4J introduction</a><br/>
 
 <h2> Track Big Data </h2>
+ <h3>Hadoop, Spark, Flink  </h3> 
 <a href="https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm">Spark introduction</a><br/>
 <a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">Hadoop/Spark/Flink compared</a><br/>
 <a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
