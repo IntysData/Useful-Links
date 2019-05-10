@@ -42,8 +42,9 @@
 <a href="https://www.kaggle.com/learn/overview">Kaggle machine learning lessons (Pandas, Sklearn, Keras, Tensorflow, Seaborn)</a><br/>
 <a href="https://www.fast.ai/">Fast ai online courses</a><br/>
   <h4> Deep Learning </h4>
-<a href="https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/">Back propagation neural network</a><br/>
-<h4> Mathematics </h4>
+  <a href="https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners">Deep learning tutorial for beginners</a><br/>
+  <a href="https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/">Back propagation neural network</a><br/>
+<h4> Mathematics ressources </h4>
 <a href="http://wikistat.fr/">Wiki stat (Mathematiques, data science)</a><br/>
 
 
