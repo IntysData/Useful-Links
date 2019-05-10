@@ -12,9 +12,9 @@
   <h4> R </h4>
  <a href="https://www.datacamp.com/tracks/r-programmer">Track DataCamp R Programmer</a><br/>
  <h4> SQL </h4>
+ <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">Initiation to SQL</a><br/>
  <h4> ETL </h4>
   <a href="https://panoply.io/data-warehouse-guide/etl-tutorial/">ETL tutorial</a><br/>
- <h4> SQL </h4>
 
 <h2> Track BI </h2> 
 <h4> Tableau </h4>
@@ -22,8 +22,8 @@
 
   <h4> PowerBI </h4>
 <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2">Analyzing and Visualizing Data with Power BI</a><br/>
-<h4> SASBI </h4>
 <h4> BO (SAP) </h4>
+<a href="https://www.youtube.com/playlist?list=PLsGYyJulNyyYqHJeNC0XB3ZwWEhy2hZqH"> SAP Business Objects Training</a><br/>
 
 <h2> Track Data Scientist </h2> 
    <h4> Python </h4>
@@ -40,10 +40,11 @@
 <a href="https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/">Back propagation neural network</a><br/>
 
 <h2> Track Data Management </h2> 
-  <h4> SQL  </h4> 
+  <h4> SQL-NoSQL  </h4> 
 <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">SQL tutorial</a><br>
 <a href="http://www.developpement-informatique.com/cours/dev-info/langage-SQL/45/Exercices-de-langage-SQL">SQL exercices 1</a><br>
 <a href="https://msbiskills.com/tsql-puzzles-asked-in-interview-over-the-years/">SQL exercices 2</a><br>
+<a href="https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql">NoSQL Training</a><br/>
  <h4>  Graph Database  </h4> 
 <a href="https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/part-0/">Neo4J introduction</a><br/>
  <h4> SAS  </h4> 
@@ -58,7 +59,7 @@
 <h2> Track Big Data </h2>
   <h4>Spark</h4> 
 <a href="https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm">Spark introduction</a><br/>
- <h4>General concepts </h4> 
+ <h4>Big data general concepts </h4> 
 <a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">Hadoop/Spark/Flink compared</a><br/>
 <a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
   <h4>Hadoop</h4> 
