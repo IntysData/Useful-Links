@@ -1,9 +1,13 @@
 <p align="center"><img src="https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/v1/70958/mrepwglrmfl0pzrv4onb_ajepll.png"/></p>
 
 <strong>Some useful links proposed by the team to improve yours skills.<strong>
-
-<span style="color:#f16d2E"> Track Basic </span>
-
+<h2>SELECT YOUR TRACK(S):</h2>
+<h2> Track Basic</h2>
+  SQL,PowerBI,Tableau,ETL,R,Python
+<h2> Track BI </h2>
+<h2> Track Data Scientist </h2>
+<h2> Track Data Management </h2>
+<h2> Track Big Data </h2>
 <h2>General formations</h2>
 <a href="https://www.edureka.co/blog/interview-questions/">Edureka : formations pour tous les domaines de la data et du developpement</a><br/>
 
