@@ -77,6 +77,10 @@
    <h4>Big data general concepts </h4> 
 <a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">Hadoop/Spark/Flink compared</a><br/>
 <a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
+
+
+<br/>
+<br/>
 <h2>General formations</h2>
 <a href="https://www.edureka.co/blog/interview-questions/">Edureka : formations pour tous les domaines de la data et du developpement</a><br/>
 
