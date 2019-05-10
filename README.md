@@ -4,7 +4,6 @@
 <h1>SELECT YOUR TRACK(S):</h1>
 <h2> Track Basic</h2>
 <h4> Python </h4>
-<a href="https://www.datacamp.com/courses/introduction-to-spark-sql">Introduction to SparkQL with Python</a><br/>
 <a href="https://www.datacamp.com/tracks/python-programmer">Track DataCamp Python Programmer</a><br>
  
  <h4> Power BI </h4>
@@ -15,7 +14,8 @@
  <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">Initiation to SQL</a><br/>
  <h4> ETL </h4>
   <a href="https://panoply.io/data-warehouse-guide/etl-tutorial/">ETL tutorial</a><br/>
-
+ <h4> Big Data </h4>
+  <a href="https://www.youtube.com/watch?v=zez2Tv-bcXY">Big data introduction</a><br/>
 <br/>
 <br/>
 <h2> Track BI </h2> 
@@ -69,6 +69,7 @@
 <br/>
 <h2> Track Big Data </h2>
   <h4>Spark</h4> 
+<a href="https://www.datacamp.com/courses/introduction-to-spark-sql">Introduction to SparkQL with Python</a><br/>
 <a href="https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm">Spark introduction</a><br/>
   <h4>Hadoop</h4> 
  <a href="https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives/4308656-familiarisez-vous-avec-hadoop">Distributed computing with Hadoop and Spark</a><br/>
