@@ -13,6 +13,8 @@
  <a href="https://www.datacamp.com/tracks/r-programmer">Track DataCamp R Programmer</a><br/>
  <h4> SQL </h4>
  <h4> ETL </h4>
+  <a href="https://panoply.io/data-warehouse-guide/etl-tutorial/">ETL tutorial</a><br/>
+ <h4> SQL </h4>
 
 <h2> Track BI </h2> 
 <h4> Tableau </h4>
