@@ -3,24 +3,25 @@
 <strong>Some useful links proposed by the team to improve yours skills.<strong>
 <h1>SELECT YOUR TRACK(S):</h1>
 <h2> Track Basic</h2>
-<h4> Python </h4>
-<a href="https://www.datacamp.com/tracks/python-programmer">Track DataCamp Python Programmer</a><br>
- 
- <h4> Power BI </h4>
- <a href="https://docs.microsoft.com/en-us/power-bi/guided-learning/">Microsoft Power BI Guided Learning</a><br>
-  <h4> R </h4>
- <a href="https://www.datacamp.com/tracks/r-programmer">Track DataCamp R Programmer</a><br/>
- <h4> SQL </h4>
- <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">Initiation to SQL</a><br/>
- <h4> ETL </h4>
+  <h4> ETL </h4>
   <a href="https://panoply.io/data-warehouse-guide/etl-tutorial/">ETL tutorial</a><br/>
+  <h4> SQL </h4>
+ <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">Initiation to SQL</a><br/>
  <h4> Big Data </h4>
   <a href="https://www.youtube.com/watch?v=zez2Tv-bcXY">Big data introduction</a><br/>
+<h4> Python ou R</h4>
+<a href="https://www.datacamp.com/tracks/python-programmer">Track DataCamp Python Programmer</a><br>
+<a href="https://www.datacamp.com/tracks/r-programmer">Track DataCamp R Programmer</a><br/>
+ 
+ <h4> Power BI ou Tableau </h4>
+ <a href="https://docs.microsoft.com/fr-fr/learn/paths/create-use-analytics-reports-power-bi/">Introduction to Power BI</a><br>
+ <a href="https://www.udemy.com/tableau-tutorial-for-beginners">Tableau tutorial for beginners</a><br/>
+
 <br/>
 <br/>
 <h2> Track BI </h2> 
 <h4> Tableau </h4>
-<a href="https://www.udemy.com/tableau-tutorial-for-beginners">Tableau tutorial for beginners</a><br/>
+<a href="https://www.tableau.com/fr-fr/learn/training">Tableau learning</a><br/>
 
   <h4> PowerBI </h4>
 <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2">Analyzing and Visualizing Data with Power BI</a><br/>
