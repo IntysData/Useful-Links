@@ -10,7 +10,8 @@
 
 <h2>Database</h2>
 <a href="https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql">SQL tutorial</a><br>
-<a href="http://www.developpement-informatique.com/cours/dev-info/langage-SQL/45/Exercices-de-langage-SQL">SQL exercices</a><br>
+<a href="http://www.developpement-informatique.com/cours/dev-info/langage-SQL/45/Exercices-de-langage-SQL">SQL exercices 1</a><br>
+<a href="https://msbiskills.com/tsql-puzzles-asked-in-interview-over-the-years/">SQL exercices 2</a><br>
 <a href="https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/part-0/">Neo4J introduction</a><br/>
 
 <h2>Python</h2>
