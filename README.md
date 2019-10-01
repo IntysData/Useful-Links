@@ -82,6 +82,8 @@
   <a href="https://training.ververica.com/intro/intro-1.html">Apache FLink Training</a><br/>
    <h4>Big data general concepts </h4> 
 <a href="https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared">Hadoop/Spark/Flink compared</a><br/>
+<a href="https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel/4451521-metamorphosez-vos-applications-temps-reel-avec-kafka"> Kafka introduction</a><br/>
+
 <a href="https://medium.com/@gowthamy/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103">Batch vs stream processing</a><br/>
 
 
