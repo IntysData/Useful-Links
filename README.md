@@ -76,7 +76,7 @@
 <a href="https://www.tutorialspoint.com/apache_spark/apache_spark_introduction.htm">Spark introduction</a><br/>
   <h4>Hadoop</h4> 
  <a href="https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives/4308656-familiarisez-vous-avec-hadoop">Distributed computing with Hadoop and Spark</a><br/>
- <a href="https://www.linkedin.com/learning/topics/hive?originalSubdomain=fr"> Distributed computing with Hadoop and Spark</a><br/>
+ <a href="https://www.linkedin.com/learning/topics/hive?originalSubdomain=fr"> HIVE: cours en ligne </a><br/>
 
    <h4>Flink</h4> 
   <a href="https://training.ververica.com/intro/intro-1.html">Apache FLink Training</a><br/>
