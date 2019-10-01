@@ -56,6 +56,9 @@
 <a href="http://www.developpement-informatique.com/cours/dev-info/langage-SQL/45/Exercices-de-langage-SQL">SQL exercices 1</a><br>
 <a href="https://msbiskills.com/tsql-puzzles-asked-in-interview-over-the-years/">SQL exercices 2</a><br>
 <a href="https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql">NoSQL Training</a><br/>
+<a href="https://www.lynda.com/sql-server-training-tutorials/456-0.html" SQL Lynda</a><br>
+<a href="https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4474691-etudiez-le-fonctionnement-d-elasticsearch" Elastic Research</a><br> 
+
  <h4>  Graph Database  </h4> 
 <a href="https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/part-0/">Neo4J introduction</a><br/>
  <h4> SAS  </h4> 
