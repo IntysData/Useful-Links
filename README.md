@@ -128,8 +128,8 @@
 
 <a href="https://aws.amazon.com/fr/redshift/">Red Shift Installation</a><br/>
 <a href="https://docs.aws.amazon.com/fr_fr/redshift/latest/mgmt/overview.html">Introduction Red Shift</a><br/>
-<a href="https://docs.aws.amazon.com/fr_fr/redshift/latest/gsg/rs-gsg-launch-sample-cluster.html">Exercices</a><br/>
 <a href="https://docs.aws.amazon.com/fr_fr/redshift/latest/gsg/getting-started.html">Red Shift sessions</a><br/>
+<a href="https://docs.aws.amazon.com/fr_fr/redshift/latest/gsg/rs-gsg-launch-sample-cluster.html">Exercices</a><br/>
 
 
 <a href="https://learndatavault.com/free-course/">Data vault</a><br/>
